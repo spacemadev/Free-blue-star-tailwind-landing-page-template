@@ -1,0 +1,85 @@
+h1, h2, h3, h4, h5, h6, p, a {
+    font-family: 'Manrope', sans-serif;
+}
+
+.mobile-menu {
+    padding: 2rem;
+}
+
+.mobile-menu ul {
+    width: 100%;
+    text-align: center;
+}
+
+.mobile-menu li {
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+.success-metric {
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.group:hover h3,
+.group:hover p {
+    color: #ffffff;
+}
+
+.portfolio-section{
+    background-color: #F0F2F8;
+}
+
+.swiper-button-prev:after,
+.swiper-button-next:after {
+    font-family: swiper-icons;
+    font-size: 20px;
+    text-transform: none !important;
+    letter-spacing: 0;
+    font-variant: initial;
+    line-height: 1;
+    color: #fff;
+    font-weight: bold;
+}
+
+.swiper-button-prev,
+.swiper-rtl .swiper-button-next,
+.swiper-button-next,
+.swiper-rtl .swiper-button-prev {
+    padding: 30px;
+    background-color: #ea47ed;
+    border-radius: 99px;
+    transition: background-color 0.3s ease;
+}
+
+.swiper-button-prev:hover,
+.swiper-rtl .swiper-button-next:hover,
+.swiper-button-next:hover,
+.swiper-rtl .swiper-button-prev:hover {
+    background-color: #006BFD;
+}
+
+@media(max-width:1023px){
+    .swiper-button-prev, .swiper-rtl .swiper-button-next, .swiper-button-next, .swiper-rtl .swiper-button-prev{
+        display: none;
+    }
+}
+
+.swiper-slide {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.testimonials{
+    border-radius: 2rem;
+    background-color: #1C2C3C;
+    padding: 4rem;
+}
+
+.swiper-button-prev,
+.swiper-rtl .swiper-button-next {
+    left: var(--swiper-navigation-sides-offset, 25px);
+    right: auto;
+}
