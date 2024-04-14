@@ -44,14 +44,12 @@ To use Blue Star, follow these steps:
 2. Install the required dependencies using npm:
 
 ```
-bash
 npm install
 ```
 
 Start the development server to customize the template:
 
 ```
-bash
 npm run dev
 ```
 
@@ -60,7 +58,6 @@ This will compile Tailwind CSS and watch for changes in your CSS files.
 Once you're done customizing, build the production version:
 
 ```
-bash
 npm run build
 ```
 
