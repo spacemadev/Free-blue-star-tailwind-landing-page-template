@@ -44,7 +44,7 @@ To use Blue Star, follow these steps:
 2. Install the required dependencies using npm:
 
 ```bash
-npm install
+npm install```
 
 Start the development server to customize the template:
 
