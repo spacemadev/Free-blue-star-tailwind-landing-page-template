@@ -49,13 +49,13 @@ npm install
 Start the development server to customize the template:
 
 ```bash
-npm run dev
+npm run dev```
 
 This will compile Tailwind CSS and watch for changes in your CSS files.
 
 Once you're done customizing, build the production version:
 
 ```bash
-npm run build
+npm run build```
 
 This will minify the CSS for production use.
