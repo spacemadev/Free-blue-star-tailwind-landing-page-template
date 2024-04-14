@@ -62,3 +62,8 @@ npm run build
 ```
 
 This will minify the CSS for production use.
+
+### Images:
+
+Some images used in this template are designed by Freepik. You can find more of their work at [Freepik](https://www.freepik.com/).
+
