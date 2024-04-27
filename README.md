@@ -1,6 +1,6 @@
-# Blue Star: Your Free Ticket to Landing Page Success
+# Blue Star: Free Tailwind Landing Page Template
 
-## Launch a Captivating Landing Page in Minutes
+## Launch a Landing Page in Minutes
 
 Standing out online requires a strategic landing page. Blue Star, a free Tailwind CSS template, empowers you to do just that.
 
