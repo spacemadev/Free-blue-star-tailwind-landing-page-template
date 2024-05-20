@@ -36,7 +36,7 @@ Check out the demo of Blue Star [here](https://spacema-dev.com/blue-star/).
 
 Visit the template page [here](https://spacema-dev.com/blue-star-free-tailwind-landing-page-template/).
 
-## If you like this template, please give a ⭐ to this repository!
+## If you like this template, please give a ⭐ to this repository, and don't forget to share it with your friends and colleagues!
 
 ### How to Install:
 
