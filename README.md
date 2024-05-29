@@ -38,6 +38,8 @@ Visit the template page [here](https://spacema-dev.com/blue-star-free-tailwind-l
 
 ## If you like this template, please give a ⭐ to this repository, and don't forget to share it with your friends and colleagues!
 
+### More [Free Tailwind Css Templates](https://spacema-dev.com/free-tailwind-css-templates/) 
+
 ### How to Install:
 
 To use Blue Star, follow these steps:
